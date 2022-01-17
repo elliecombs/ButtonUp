@@ -1,0 +1,19 @@
+.Search {
+    color: rgb(59, 184, 167);
+    border-radius: 40%;
+    border-color: rgb(96, 227, 236);
+}
+
+.Plus {
+    color: whitesmoke;
+    border-radius: 60%;
+    border-color: #63e3e7;
+    background-color: #00ffff;
+}
+
+.Create {
+    color: white;
+    background-color: #0084ff;
+    box-shadow: 7px 7px 1px .5px rgb(3, 10, 10)
+
+}
